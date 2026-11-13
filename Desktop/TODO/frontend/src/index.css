@@ -1,0 +1,52 @@
+@import "tailwindcss";
+*{
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+
+/* import React from 'react'
+import { PiBooksBold } from "react-icons/pi";
+
+
+const navbar = () => {
+  return (
+    <div>
+      <nav className="bg-gray-900 text-white px-6 py-3 shadow-md">
+      <div className="flex items-center justify-between">
+        <div className="flex items-center space-x-2">
+          <PiBooksBold className="text-2xl text-yellow-200" />
+          <h1 className="text-xl font-bold text-yellow-200">TODO</h1>
+        </div>
+
+        <div className="hidden md:flex space-x-6 text-lg">
+          <a href="#" className="hover:text-gray-400">Home</a>
+          <a href="#" className="hover:text-gray-400">About Us</a>
+          <a href="#" className="hover:text-gray-400">Tasks</a>
+        </div>
+
+        <div className="flex items-center space-x-4">
+          <button className="px-3 py-1 border border-gray-400 rounded hover:bg-gray-700">
+            Sign In
+          </button>
+
+          <button className="px-3 py-1 border border-gray-400 rounded hover:bg-gray-700">
+            Login
+          </button>
+
+          <button className="px-3 py-1 bg-red-500 rounded hover:bg-red-600">
+            Log Out
+          </button>
+          <img
+            src="https://imgs.search.brave.com/MEeNKbFOmgA9EgM7Oklk5GB2_rDsUGVOUjbcorrki8Y/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9tZWRp/YS5nZXR0eWltYWdl/cy5jb20vaWQvMjIw/ODQ3NTE5Ni92ZWN0/b3IvdXNlci1pY29u/LXJlcHJlc2VudGlu/Zy1wcm9maWxlLWFj/Y291bnQuanBnP3M9/NjEyeDYxMiZ3PTAm/az0yMCZjPUpFOS1t/UEZiamRPMWR1aEZO/SE1TakZnZWtvQVdD/Q05WRnRCQW1LSDdS/TTg9"
+            alt="logo"
+            className="w-10 h-10 rounded-full object-cover"
+          />
+        </div>
+
+      </div>
+    </nav>
+    </div>
+  )
+}
+
+export default navbar */
