@@ -11,6 +11,29 @@ Taskify is a simple task manager built as a React single-page application with a
 - Express JSON API backed by MongoDB/Mongoose.
 - Responsive styling with Tailwind CSS and Vite.
 
+## Tech Stack
+
+### Frontend
+
+- **React** for the component-based user interface
+- **Vite** for local development and production builds
+- **React Router** for client-side page routing
+- **Redux Toolkit** and **React Redux** for authentication state
+- **Tailwind CSS** with its Vite plugin, plus project CSS for styling
+- **Axios** for HTTP requests to the API
+- **React Icons** for interface icons
+- **React Toastify** for toast notifications
+- **ESLint** for linting
+
+### Backend
+
+- **Node.js** with **Express 5** for the REST API
+- **MongoDB** with **Mongoose 9** for persistence and data models
+- **bcrypt** for password hashing
+- **dotenv** for environment-based configuration
+- **cors** for cross-origin requests
+- **nodemon** for restarting the API during development
+
 ## Requirements
 
 - Node.js 20.19+ or 22.12+ (Vite 8 requirement) and npm.
